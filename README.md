@@ -111,7 +111,7 @@ Le projet est conçu pour tourner sur **Google Colab** avec un GPU (Tesla T4 ou 
 ```
 .
 ├── Projet_GPU_Flix.ipynb     # Notebook complet (benchmark + application Gradio)
-├── gpu_flix_deck.html         # Support de présentation (slides)
+├── TP_GPU_Flix_Enonce.docx        # TP pour les étudiants à faire
 └── README.md
 ```
 
